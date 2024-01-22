@@ -1,4 +1,4 @@
-# Submission-Dicoding-Belajar-Membuat-Aplikasi-Web-dengan-React
+# React Notes App
 Submission kelas Dicoding: Belajar Membuat Aplikasi Web dengan React. Aplikasi web yang dibuat adalah Notes App yang dapat mengelola daftar catatan sehari-hari. Aplikasi dibuat dengan React + Vite beserta NPM. Aplikasi dibuat dengan memfokuskan modularisasi dan pembuatan komponen React. Setiap tampilan yang ada di dalam web disusun dari komponen-komponen React sesuai dengan tanggung jawabnya masing-masing.
 
 ## Fitur Aplikasi
